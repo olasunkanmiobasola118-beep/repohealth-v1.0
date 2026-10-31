@@ -121,3 +121,4 @@ xdg==5
 xkit==0.0.0
 Yapps2==2.2.1
 zipp==3.23.0
+gunicorn
